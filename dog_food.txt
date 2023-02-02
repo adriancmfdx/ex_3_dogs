@@ -1,4 +1,4 @@
-Baldo: animal protein
+Baldo: vegan protein
 Ragnar: vegan protein
-Baldo: might need vegan - afternoon
 Ragnar: no snacks
+Baldo: no snacks
